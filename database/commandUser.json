@@ -1,0 +1,37 @@
+[
+  {
+    "jid": "62895622997450@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 4
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6289516417791@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6285156487568@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      }
+    ]
+  }
+]
